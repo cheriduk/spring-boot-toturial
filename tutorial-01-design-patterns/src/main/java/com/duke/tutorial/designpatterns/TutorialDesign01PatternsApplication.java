@@ -1,4 +1,4 @@
-package com.duke.tutorialdesignpatterns;
+package com.duke.tutorial.designpatterns;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

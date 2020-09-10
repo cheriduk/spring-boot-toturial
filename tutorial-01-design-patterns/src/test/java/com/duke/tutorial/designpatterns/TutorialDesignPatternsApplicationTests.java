@@ -1,4 +1,4 @@
-package com.duke.tutorialdesignpatterns;
+package com.duke.tutorial.designpatterns;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
